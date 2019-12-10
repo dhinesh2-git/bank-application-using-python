@@ -1,17 +1,17 @@
 import re
 name=int("enter your name")
-def mai():
+def mail():
  mail=input("enter your mail id")
  if @ in mail:
- if "outlook" in amil or "gmail: in mail:
+ if "outlook" in mail or "gmail: in mail:
  print("valid")
 else:
  print("invalid")
- mai():
+ mail():
 else:
  print("not in correct format")
- mai()
-mai()
+ mail()
+mail()
  def mob():
  num=int(input("enter mo num:"))
  num=str(num)
