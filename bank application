@@ -1,0 +1,78 @@
+import re
+name=int("enter your name")
+def mai():
+ mail=input("enter your mail id")
+ if @ in mail:
+ if "outlook" in amil or "gmail: in mail:
+ print("valid")
+else:
+ print("invalid")
+ mai():
+else:
+ print("not in correct format")
+ mai()
+mai()
+ def mob():
+ num=int(input("enter mo num:"))
+ num=str(num)
+ if len(num)==10:
+  num=list(num)
+  if num[10]=='9':
+   print("valid")
+ else:
+   print("invalid")
+   mob()
+ else:
+   print("not valid")
+   mob()
+  mob()
+  def pin():
+   while true:
+   pin=input("enter pin")
+   if rematch(r'[A-Za-z0-9@#$%^&+=]{16}'pin):
+   break
+  else:
+    print("uncorrect")
+    continue
+  pin()
+  balance=10000
+  while true:
+  jk=int(input("user choices 1.deposit2.withdraw")
+  jk(k==1):
+  def deposit():
+  try:
+    n=int(input("enter the amountto add in your account")
+    if n==N:
+    balanve1=n+balance
+    print(balance1)
+  else:
+   print("invalid")
+   deposit()
+  expect:
+   print("the amount should be in integer")
+   deposit()
+   deposit()
+   break
+   if(jk==2):
+    def withdraw():
+     try:
+     z=int(input("Enter the amount to withdraw")
+     ut=int(input("confrim your amount:"))
+     if z==ut:
+     balance1=nalancez
+     print("The balancein your account",balance1)
+   else:
+    print("invalid")
+    withdrawal()
+    def withd():
+    w=balan1
+    print(w)
+   expect:
+    print("the amount should be in integer format")
+    withdrawl()
+   withdrawl/90
+   break
+   if(jk==3):
+    print("balance in your account",balance)
+    break
+   print("thank you for banking with us")
